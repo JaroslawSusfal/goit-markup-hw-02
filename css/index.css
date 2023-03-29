@@ -1,5 +1,11 @@
-<style>
 <body {
     font-family: 'Roboto', sans-serif;
+    color: #212121
+
+    .links {
+        color: #212121;
+    };
 }
-</style>
+.button {
+    cursor: pointer;
+}
