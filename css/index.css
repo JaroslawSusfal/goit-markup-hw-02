@@ -9,3 +9,12 @@
 .button {
     cursor: pointer;
 }
+
+:root {
+--active-color: #2196f3;
+--logo-header: black;
+--logo-footer: white;
+--logo-web: #2196f3;
+--second-color: #757575;
+--first-bacground-color: #2f303a;
+}
