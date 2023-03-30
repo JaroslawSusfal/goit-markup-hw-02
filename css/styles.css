@@ -12,7 +12,16 @@
     line-height: 1.2;
     text-decoration: none;
     }
+.links {
+    color: var(--text-color-dark);
+    text-decoration: none;
+}
 
+.links:hover,
+.links:focus,
+.links:active {
+    color: var(--text-color-blue);
+    
 .button {
     cursor: pointer;
 }
