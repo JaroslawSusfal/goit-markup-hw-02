@@ -9,14 +9,16 @@
     color: #2196F3;
 }
     
-.button:hover 
-.button:focus {
+.button-main:hover 
+.button-main:focus {
     color: #2196F3;
     background-color: #FFFFFF;
     cursor: pointer;
 }
 
-.button: {
+.costam>h1 {text-align: center;
+}
+.button-main: {
     background-color: #2196F3;
     border: none;
     color: #FFFFFF;
@@ -26,6 +28,18 @@
     font-size: 16px;
     border-radius: 4px;
     cursor: pointer;
+}
+
+.headline-background {
+    background: #2f303a
+    color: var(--font-color2);
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    text-align: center;
+    line-height: 60px;
+    letter-spacing: 0.06em;
 }
 
 :root {
@@ -43,11 +57,6 @@
 
 .logo-web {
     color: var(--logo-web);
-}
-
-.nav:hover,
-.nav:focus {
-    color: var(--active-color);
 }
 
 .header-contact {
