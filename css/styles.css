@@ -4,25 +4,29 @@
     color: #212121
 }
 
-.links {
-    color: #212121;
-    font-family: Raleway;
-    font-weight: 700px;
-    font-size: 26px;
-    line-height: 1.2;
-    text-decoration: none;
-    }
-.links {
-    color: var(--text-color-dark);
-    text-decoration: none;
+.link-nav:hover,
+.link-nav:focus {
+    color: #2196F3;
+}
+    
+.button:hover 
+.button:focus {
+    color: #2196F3;
+    background-color: #FFFFFF;
+    cursor: pointer;
 }
 
-.links:hover,
-.links:focus,
-.links:active {
-    color: var(--text-color-blue);
-    
-.button {
+.button: {
+    background-color: #2196F3;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    corner-radius: 4px;
+    wigth: 117px;
+    height: 30px;
     cursor: pointer;
 }
 
