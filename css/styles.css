@@ -18,7 +18,23 @@
     color: #FFFFFF;
     background: #2196F3;
     border-radius: 4px;
+    cursor: pointer;
 }
+
+.h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+        /* or 136% */
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #2F303A;
+}
+
 
 
 
@@ -51,6 +67,40 @@
     color: var(--logo-web);
 }
 
+.webstudio-logo{
+
+}
+
+.map-contact:hover,
+.map-contact:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    color: #FFFFFF;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    color: rgba(255, 255, 255, 0.6);
+}
 .header-contact {
     color: var(--second-color);
 } 
+
+.bacground-third {
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+    background: #2F303A;
+}
