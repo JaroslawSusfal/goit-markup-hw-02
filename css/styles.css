@@ -58,7 +58,7 @@
     color: rgba(255, 255, 255, 0.6);
 }
 
-.bacground-first {
+.background-first {
     position: absolute;
     width: 1600px;
     height: 80px;
@@ -67,7 +67,7 @@
     background: #FFFFFF;
 }
 
-.bacground-second {
+.background-second {
     position: absolute;
     width: 1600px;
     height: 600px;
@@ -76,11 +76,11 @@
     background: #2F303A;
 }
 
-.bacground-third {
+.background-third {
     background: #E5E5E5;
 }
 
-.bacground-fourth {
+.background-fourth {
     position: absolute;
     width: 1600px;
     height: 648px;
@@ -89,7 +89,7 @@
     background: #F5F4FA;
 }
 
-.bacground-fifth {
+.background-fifth {
     position: absolute;
     width: 1600px;
     height: 252px;
