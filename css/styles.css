@@ -11,28 +11,16 @@
  
 .button-main:hover,
 .button-main:focus {
-    font-family: 'Roboto' sans-serif;
-    cursor: pointer;
-    font-weight: 500;
+    font-family: 'Roboto';
+    font-weight: 700;
     font-size: 16px;
     text-align: center;
     color: #FFFFFF;
-    background-color: #2196f3;
+    background: #2196F3;
+    border-radius: 4px;
 }
 
-.costam>h1 {text-align: center;
-}
-.button-main: {
-    background-color: #2196F3;
-    border: none;
-    color: #FFFFFF;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 4px;
-    cursor: pointer;
-}
+
 
 .headline-background {
     background: #2f303a
