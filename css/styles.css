@@ -22,21 +22,22 @@
 }
 
 .h1 {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 44px;
-    line-height: 60px;
+    position: absolute;
+        width: 696px;
+        height: 120px;
+        left: 452px;
+        top: 280px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 60px;
         /* or 136% */
-    text-align: center;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: #FFFFFF;
-    background: #2F303A;
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #FFFFFF;
 }
-
-
-
 
 .headline-background {
     background: #2f303a
@@ -57,18 +58,6 @@
 --logo-web: #2196f3;
 --second-color: #757575;
 --first-bacground-color: #2f303a;
-}
-
-.logo-header {
-    color: var(--logo-header);
-}
-
-.logo-web {
-    color: var(--logo-web);
-}
-
-.webstudio-logo{
-
 }
 
 .map-contact:hover,
@@ -92,9 +81,6 @@
     /* or 171% */
     color: rgba(255, 255, 255, 0.6);
 }
-.header-contact {
-    color: var(--second-color);
-} 
 
 .bacground-first {
     position: absolute;
