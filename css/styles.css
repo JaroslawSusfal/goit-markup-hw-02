@@ -28,6 +28,14 @@ body
     color: #2196F3;
 }
 
+.contact-link-header {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
 .button-main:hover,
 .button-main:focus {
     cursor: pointer;
