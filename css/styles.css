@@ -25,9 +25,16 @@ body
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    color: #2196F3;
+    color: #212121;
 }
 
+.nav-link-portfolio {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+}
 .contact-link-header {
     font-weight: 500;
     font-size: 14px;
