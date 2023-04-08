@@ -81,6 +81,15 @@ body
     cursor: pointer;
 }  
 
+.h2 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
 .map-contact:hover,
 .map-contact:focus {
     font-style: normal;
