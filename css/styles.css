@@ -24,7 +24,7 @@ ul {
     color: #000000;
 }
 
-.nav-link-agencja: {
+.nav-link-agencja:hover {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -32,7 +32,7 @@ ul {
     color: #2196F3;
 }
 
-.nav-link: {
+.nav-link:hover {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
