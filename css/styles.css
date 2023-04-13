@@ -157,22 +157,19 @@ a {
     color: #757575;
 }
 
-
-.map-contact: {
+.map-contact {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
-    color: #FFFFFF;
     text-decoration: none;
 }
 
-.contact-link-footer: {
+.contact-link-footer {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
-    color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
 }
 
