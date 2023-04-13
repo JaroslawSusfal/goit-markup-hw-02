@@ -157,8 +157,8 @@ a {
     color: #757575;
 }
 
-.map-contact:hover,
-.map-contact:focus {
+
+.map-contact: {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -167,8 +167,7 @@ a {
     text-decoration: none;
 }
 
-.contact-link-footer:hover,
-.contact-link-footer:focus {
+.contact-link-footer: {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
