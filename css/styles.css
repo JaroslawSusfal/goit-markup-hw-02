@@ -170,6 +170,14 @@ a {
     color: #757575;
 }
 
+.footer-bg {
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+    background: #2F303A;
+}
+
 .map-contact {
     font-style: normal;
     font-weight: 400;
