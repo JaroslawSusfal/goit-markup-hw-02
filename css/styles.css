@@ -12,6 +12,14 @@ a {
     text-decoration: none;
 }
 
+.header-bg {
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
 .web-header {
     font-weight: 700;
     font-size: 26px;
