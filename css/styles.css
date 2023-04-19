@@ -136,7 +136,6 @@ a {
 }
 
 .p {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -153,7 +152,6 @@ a {
 }
 
 .team-role {
-    font-weight: 400;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
@@ -169,7 +167,6 @@ a {
 }
 
 .view-project {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
@@ -186,7 +183,6 @@ a {
 
 .map-contact {
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     text-decoration: none;
@@ -196,7 +192,6 @@ a {
 
 .contact-link-footer {
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     text-decoration: none;
