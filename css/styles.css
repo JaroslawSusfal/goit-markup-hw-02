@@ -12,10 +12,13 @@ a {
     text-decoration: none;
 }
 
-button {
-    background-color: #2196F3
-}
+:root {
+    --background-button-color:#2196F3;
+}   
 
+button {
+    background: var(--background-button-color);
+}
 
 .header-bg {
     width: 1600px;
@@ -43,11 +46,14 @@ button {
 
 .nav-link:hover,
 .nav-link:focus {
+    color: #212121;
+}
+
+.nav-link: {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    color: #212121;
 }
 
 .nav-link-agencja:hover,
@@ -57,15 +63,25 @@ button {
 
 .contact-link-header-email:hover,
 .contact-link-header-email:focus {
+    color: #2196F3;
+   
+}
+
+.contact-link-header-email {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    color: #2196F3;
+    color: #757575;
 }
+    
 
 .contact-link-header-tel:hover,
 .contact-link-header-tel:focus {
+    color: #2196F3;
+}
+
+.contact-link-header-tel {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
