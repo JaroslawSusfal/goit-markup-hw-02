@@ -36,7 +36,8 @@ a {
     color: #000000; 
 }
 
-.nav-link-agencja {
+.nav-link-agencja:hover,
+.nav-link-agencja:focus {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -44,7 +45,8 @@ a {
     color: #2196F3;
     }
 
-.nav-link {
+.nav-link:hover,
+.nav-link:focus {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
