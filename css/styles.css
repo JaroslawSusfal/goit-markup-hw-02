@@ -25,19 +25,16 @@ button:hover {
     background: #FFFFFF;
 }
 
-.web-header {
+.webstudio-header {
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
     color: #2196F3;
+    
 }
 
 .studio-header {
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.2;
-    letter-spacing: 0.03em;
     color: #000000; 
 }
 
