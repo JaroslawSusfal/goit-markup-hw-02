@@ -16,12 +16,8 @@ header a:hover {
     color: #2196F3;
 }
 
-:root {
-    --background-button-color:#2196F3;
-}   
-
-button {
-    background: var(--background-button-color);
+button:hover {
+    background:#2196F3;
 }
 
 .header-bg {
