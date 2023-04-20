@@ -50,19 +50,7 @@ button:hover {
     color: #212121;
 }
 
-.contact-link-header-email {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.1;
-    letter-spacing: 0.02em;
-    color: #757575;
-}
-
 .contact-link-header-tel {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.1;
-    letter-spacing: 0.02em;
     color: #757575;
 }
 
