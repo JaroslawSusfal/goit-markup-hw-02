@@ -12,7 +12,8 @@ a {
     text-decoration: none;
 }
 
-header a:hover {
+header a:hover,
+header a:focus {
     color: #2196F3;
 }
 
@@ -46,7 +47,7 @@ button:hover {
     color: #212121;
     }
 
-.contact-link-header-tel {
+.contact-link-header {
     color: #757575;
 }
 
